@@ -1,0 +1,1 @@
+Created a dashboard using Sales dataset. It Contains 5 pivot charts, 2 slicers and 2 KPI cards. The charts are REGION, COUNTRY, WEEKLY, MONTHLY (TARGETVS ACTUAL), and the slicers are month, Region the KPI cards are total sales top 3 customers
