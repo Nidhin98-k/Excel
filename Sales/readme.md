@@ -1,1 +1,9 @@
-Created a dashboard using Sales dataset. It Contains 5 pivot charts, 2 slicers and 2 KPI cards. The charts are REGION, COUNTRY, WEEKLY, MONTHLY (TARGETVS ACTUAL), and the slicers are month, Region the KPI cards are total sales top 3 customers
+Sales Distribution Dashboard
+
+Created an interactive dashboard using a Sales dataset in Microsoft Excel. It contains 5 Pivot Charts, 2 Slicers, and 2 KPI Cards to analyze sales performance.
+
+Pivot Charts: Region, Country, Weekly Sales, Monthly (Target vs Actual), and Top 10 Products.
+Slicers: Month and Region.
+KPI Cards: Total Sales and Top 3 Customers.
+
+The dashboard helps visualize sales trends and provides quick business insights through interactive filters and charts.
